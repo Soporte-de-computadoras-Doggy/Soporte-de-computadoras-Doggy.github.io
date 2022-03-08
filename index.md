@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienbenido a soporte Doggy
 
 [Inicio](index.md)  [Hardware](./hardware.md) [Programas de software](./software.md) [Perifericos](./perifericos.md) [PC´s personalizadas](./personalizado.md)
 
