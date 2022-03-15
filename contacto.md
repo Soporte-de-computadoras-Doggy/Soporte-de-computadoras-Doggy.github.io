@@ -5,6 +5,6 @@
 
 Bienvenido usuario
 
-Por medio de este correo se podra poner en contacto con nosotros, por alguna duda, pregunta o cotisacion de algun producto.
+Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, pregunta o cotisacion de algun producto.
 
-# davilarodrigo@77gmail.com
+![wa link_tqswtx](https://user-images.githubusercontent.com/99770113/158484787-f7fe5f48-cb91-4c91-9103-501d71836eb4.png)
