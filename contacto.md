@@ -10,7 +10,7 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 <form>
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
-<label for="lname"> Apellidos:</label><br>
+<label for="lname">Apellidos:</label><br>
 <input type="text" id="lname" name="lname" value="Apellidos"><br>
 </form>
 
