@@ -11,6 +11,7 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 <label for name="name"> Nombre:</label><br>
   <impute type="text" id="fn name" name "name" vale="Tus nombres"><br>
 <label for "lname"> Apellidos:</label><br>
-    <impute type="text" id="lname" name="lname" valve<"Apelidos"><br><form>
+    <impute type="text" id="lname" name="lname" valve<"Apelidos"><br>
+    <form>
 
 ![wa link_tqswtx](https://user-images.githubusercontent.com/99770113/158484787-f7fe5f48-cb91-4c91-9103-501d71836eb4.png)
