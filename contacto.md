@@ -9,7 +9,7 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 
 <form>
 <label for name="name"> Nombre:</label><br>
-<impute type="text" id="fn name" name "name" valve="Tus nombres"><br>
+<impute type="text" id="fn name" name="name" valve="Tus nombres"><br>
 <label for "lname"> Apellidos:</label><br>
 <impute type="text" id="lname" name="lname" valve<"Apellidos"><br>
 <form>
