@@ -1,4 +1,4 @@
-## Bienbenido a soporte Doggy
+## Bienvenido a soporte Doggy
 
 [Inicio](index.md)  [Hardware](./hardware.md) [Programas de software](./software.md) [Perifericos](./perifericos.md) [PC´s personalizadas](./personalizado.md)  [CONTACTENOS](./contacto.md)
 
