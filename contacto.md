@@ -10,7 +10,7 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 
 ![wa link_tqswtx](https://user-images.githubusercontent.com/99770113/158484787-f7fe5f48-cb91-4c91-9103-501d71836eb4.png)
 
-<form>
+<form action="/action-page.php">
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
   
@@ -26,5 +26,5 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 <label for name="name"> Tu localidad(soporte para tu pc):</label><br>
 <input type="text" id="name" name="name" value="Ej: Col. Benito Jueares, CDMX, #123"><br>
   
-<input type="submit" value="submit">
+<input type="submit" value="Enviar">
 </form>
