@@ -26,5 +26,8 @@ Por medio de este QR se podra poner en contacto con nosotros, por alguna duda, p
 <label for name="name"> Tu localidad(soporte para tu pc):</label><br>
 <input type="text" id="name" name="name" value="Ej: Col. Benito Jueares, CDMX, #123"><br>
   
+<label for="birthday">Birthday:</label>
+<input type="date" id="birthday" name="birthday">
+  
 <input type="submit" value="Enviar">
 </form>
